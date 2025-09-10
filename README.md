@@ -39,14 +39,10 @@ Durante o desenvolvimento do sorteador de números, alguns desafios surgiram:
    Pegar valores dos inputs e atualizar o resultado de forma dinâmica.  
    **Solução:** usar `document.getElementById()` e `innerHTML`.
 
-3. **Validação de entradas**  
-   Evitar entradas inválidas (texto, vazio, números fora do intervalo).  
-   **Observação:** recomenda-se adicionar verificações para melhorar a experiência do usuário.
-
-4. **Controle de estado do botão**  
+3. **Controle de estado do botão**  
    Habilitar/desabilitar o botão de reiniciar conforme necessário.  
    **Solução:** alternar classes CSS com `classList.add`, `classList.remove` e `classList.contains`.
 
-5. **Escalabilidade**  
+4. **Escalabilidade**  
    Quantidade de números maior que o intervalo pode gerar loop infinito.  
    **Observação:** incluir verificação para impedir ou alertar o usuário.
