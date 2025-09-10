@@ -1,6 +1,6 @@
 # Sorteador de Números
 
-## Sorteio feito, agora o reiniciar foi apertado:
+## Sorteio feito
 ![Demonstração do Projeto](https://media.discordapp.net/attachments/1395861135739060334/1407583756998414346/image.png?ex=68a6a207&is=68a55087&hm=48a940b84ea9ae46c33ed6e2295123d6398cc6302d663f2ebde3657eaabb9659&=&format=webp&quality=lossless&width=1742&height=856)
 
 ## Com o jogo reiniciado:
