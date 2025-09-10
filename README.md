@@ -4,7 +4,7 @@
 ![Demonstração do Projeto](https://media.discordapp.net/attachments/1395861135739060334/1407583756998414346/image.png?ex=68a6a207&is=68a55087&hm=48a940b84ea9ae46c33ed6e2295123d6398cc6302d663f2ebde3657eaabb9659&=&format=webp&quality=lossless&width=1742&height=856)
 
 ## Com o jogo reiniciado:
-![Demonstração do Projeto](https://media.discordapp.net/attachments/1395861135739060334/1407583879610630275/image.png?ex=68a6a224&is=68a550a4&hm=c30b54ca8fa394122574a88119261befd6affb0d6f4e9c0296d96132febb8c5e&=&format=webp&quality=lossless&width=1742&height=856)
+![Demonstração do Projeto](https://media.discordapp.net/attachments/1395861135739060334/1407583879610630275/image.png?ex=68c251a4&is=68c10024&hm=6b71156f23bece854523b8798c1ad8dd5d4fb9ff3f5fdfa8c0b5b029b4187d89&=&format=webp&quality=lossless)
 
 ## Resumo da Proposta
 Durante o curso Lógica de Programação: Praticando com desafios, desenvolvi um projeto que sorteia números aleatórios dentro de um intervalo definido pelo usuário, garantindo que **não haja repetições**.
